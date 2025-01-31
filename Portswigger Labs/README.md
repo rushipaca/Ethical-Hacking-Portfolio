@@ -15,3 +15,5 @@ Server-Side Request Forgery (SSRF) - Exploiting insecure server-side requests.
 Cross-Site Request Forgery (CSRF) - Forcing users to perform unintended actions.
 
 File Upload Vulnerabilities - Bypassing validation to execute malicious files.
+
+Operating System (OS) Command Injection - Executing OS commands on the server that is running an application.
